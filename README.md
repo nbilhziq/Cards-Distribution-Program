@@ -47,7 +47,7 @@ With XAMPP
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto">
 	<pre class="notranslate">
 		<code>
-a. Copy the file folder to your htdocs directory.
+a. Copy/Clone the file folder to your htdocs directory.
 b. Start the XAMPP Apache Services.
 c. Open your web browser and type <b><em>http://localhost/cards</em></b> in the address bar.
 		</code>
